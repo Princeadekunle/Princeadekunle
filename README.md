@@ -45,9 +45,13 @@ Technical Skills:**
   
 WORK EXPERIENCE
   ● AntBuilder.Tech (USA) Senior Technical Product Manager / Senior Project Manager | 2023 - Present
+  
     ○ Implemented portfolio management system and strategic frameworks, resulting in 40% improved resource allocation and 25% enhanced project outcomes
+    
   ● eCore Services (USA) Technical Product Manager / Senior Project Manager | 2021 - 2023
+  
     ○ Conducted user research and implemented proactive communication strategies, increasing customer satisfaction by 25% and reducing issues by 15%
+    
   ● Astromedia/Atypical Consulting (Nigeria) Assistant Project Manager | 2021 - 2021
     ○ Implemented hybrid Agile-Waterfall methodology and risk assessment protocols, increasing on-time delivery by 20% and reducing project risks by 30%
   ● Wrkr Technology Incorporated (USA) Product Manager / Project Coordinator (Part-time) | 2021 -  2023
